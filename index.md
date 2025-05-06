@@ -32,7 +32,7 @@ Collaborated with an e-commerce company in Singapore to integrate analytics into
 
 ---
 
-### 🏘️ [Airbnb Listing Analytics](https://torana1998.github.io/Airbnb-Listing-Analytics/)
+### 🏘️ [Airbnb Listing Analytics](https://torana1998.github.io/Airbnb-Analytics/)
 Utilised web-scraped Airbnb data to analyse listing features that drive high occupancy.  
 **Highlights:**
 - Built a **star schema** for structured data modelling.

@@ -1,7 +1,7 @@
 # torana1998.github.io
 # Torana
 
-Welcome to my data science portfolio. I'm a Master's in Business Analytics student at with a growing passion for using data to solve business problems.
+Welcome to my data science portfolio. I'm a Master's in Business Analytics student at with a growing passion for using data to solve business problems. 
 
 📫 Contact: [torana1998@gmail.com](mailto:torana1998@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/torana) | [GitHub Pages Portfolio](https://torana1998.github.io)

@@ -1,35 +1,62 @@
 ---
 layout: default
-title: Torana's Portfolio
+title: Torana's Data Analytics Portfolio
 ---
 
-# 👋 Hello, I'm Torana
+# 👋 Welcome
 
-Welcome to my data science portfolio. I'm a Master's in Business Analytics student at with a growing passion for using data to solve business problems.
+I am **Torana**, a part-time Master's student in Enterprise Business Analytics at the **National University of Singapore**.  
+I apply data science techniques to solve real-world business problems.  
+This page summarises the projects I have worked on. Please click on the project titles for more in-depth details.
 
 ---
 
-## 📂 My Projects
+## 📚 My Education
 
+**National University of Singapore**  
+🎓 **Master of Technology (Enterprise Business Analytics), NUS (2024–2026)**  
+🎓 **Bachelor of Engineering (Civil), NUS (2019–2023)**  
 
-### 🏋️ [Sole Fitness Analytics](https://torana1998.github.io/Sole-Fintess-Business-Analytics/)
-**Goal:** collobrated with an e-commerce SME company built posgreSQL data base improve revenue, and optimise ad spend. 
+---
+
+## 📊 Projects
+
+### 🏋️ [Sole Fitness Business Analytics](https://torana1998.github.io/Sole-Fintess-Business-Analytics/)
+Collaborated with an e-commerce company in Singapore to integrate analytics into daily operations.  
+**Highlights:**
+- Designed a normalised **PostgreSQL** database integrating website, Shopee, and Lazada sales data.
+- Developed **Power BI dashboards** to visualise product performance and business KPIs.
+- Applied **clustering** to segment products and identify underperformers for revenue diversification.
+- Formulated a **ROAS (Return on Ad Spend)** metric and conducted correlation analysis to reduce advertising costs by **4%**.  
+*Note: As this project was conducted for an operational company, the datasets are confidential. However, the project report provides sufficient detail to understand the scope and outcomes.*
+
 ---
 
 ### 🏘️ [Airbnb Listing Analytics](https://torana1998.github.io/Airbnb-Listing-Analytics/)
-**Goal:** Helped a short-term rental operator improve Aibnb occupancy using NLP and machine learning.  
+Utilised web-scraped Airbnb data to analyse listing features that drive high occupancy.  
+**Highlights:**
+- Built a **star schema** for structured data modelling.
+- Applied **NLP** techniques (n-gram analysis, TF-IDF, LDA, sentiment analysis) on review and listing text data.
+- Developed **Linear Regression**, **Random Forest**, and **Gradient Boosting** models for occupancy prediction.
+- Achieved **R² = 0.79** for a cross-validated Random Forest model.
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Current Tech Stack
 
-- Python, PostgreSQL, Power BI, Tableau  
-- NLP: TF-IDF, n-grams, LDA  
-- ML: Random Forest, Gradient Boosting, GridSearchCV  
+| Domain                   | Tools & Technologies                                                                 |
+|--------------------------|---------------------------------------------------------------------------------------|
+| **Programming Languages**| Python, R, SQL                                                                       |
+| **Machine Learning**     | scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch                                 |
+| **NLP & Text Analytics** | SpaCy, NLTK, BERT, TextBlob, TF-IDF, Word2Vec, Gensim (LDA, topic modelling)         |
+| **Data Engineering**     | PostgreSQL, MySQL, Excel VBA                                                          |
+| **Data Manipulation**    | pandas, NumPy                                                                         |
+| **Visualisation & BI**   | Power BI, Tableau, matplotlib, seaborn, Plotly                                       |
+| **MLOps & Deployment**   | MLflow, Docker, GitHub Actions, Streamlit, FastAPI                                   |
+| **Cloud & Collaboration**| Google Colab, Git, GitHub                                                           |
 
+---
 
-## 🧰 Tools & Tech
-- Python (pandas, scikit-learn, matplotlib)
-- NLP (TextBlob, BERT)
-- Power BI
-- PostgreSQL
-- Google Colab
+Want to connect or collaborate? Please feel free to reach out regarding any of the projects featured here.  
+📧 [torana1998@gmail.com](mailto:torana1998@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/torana) | [GitHub](https://github.com/torana1998)

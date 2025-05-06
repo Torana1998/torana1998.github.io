@@ -1,7 +1,7 @@
 # torana1998.github.io
-# 🧠 Torana's Project Portfolio
+# Torana
 
-Welcome to my data and analytics portfolio. I'm a Master's in Business Analytics student at NUS with a background in civil engineering and a growing passion for using data to solve business problems.
+Welcome to my data science portfolio. I'm a Master's in Business Analytics student at with a growing passion for using data to solve business problems.
 
 📫 Contact: [torana1998@gmail.com](mailto:torana1998@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/torana) | [GitHub Pages Portfolio](https://torana1998.github.io)
@@ -11,10 +11,14 @@ Welcome to my data and analytics portfolio. I'm a Master's in Business Analytics
 ## 🚀 Featured Projects
 
 ### [🏘️ Airbnb Listing Analytics](https://torana1998.github.io/Airbnb-Listing-Analytics/)
-Used NLP and machine learning to identify features driving high occupancy for Airbnb listings. Built predictive models (Random Forest, Gradient Boosting), and performed sentiment & topic modelling on guest reviews.
+- Used NLP techniques to identify language that drives high occupancy for Airbnb listings.
+- Built predictive models (Linear, Regression, Random Forest, Gradient Boosting) to predeict occupancy rate. 
 
 ### [📈 Sole Fitness Business Analytics](https://torana1998.github.io/Sole-Fintess-Business-Analytics/)
-Collaborated with an e-commerce SME to optimise advertising spend and improve product-level revenue visibility. Built PostgreSQL schema and Power BI dashboards, and applied clustering techniques for product segmentation.
+- Developed a postgreSQL data base that integrates sales data sources from Sole Fitness Website, Lazada and Shopee pages.
+- Diversifed revenue sources by reducing reliance on treadmill sales via clustering techniques and KPI metric development. 
+- Formulated returns on advertisement expernditure metric to pptimised advertising expenditure.
+- Built a Power BI dashboard for metric and sales tracking. 
 
 ---
 

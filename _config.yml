@@ -1,3 +1,11 @@
-title: "Torana's Business Analytics Portfolio"
-description: "Summary of personal projects applying analytics and data science."
-theme: jekyll-theme-minimal
+title: Torana's Portfolio
+email: torana1998@gmail.com
+description: >- 
+  A personal portfolio showcasing data analytics and machine learning projects.
+baseurl: ""
+url: "https://torana1998.github.io"
+theme: minima
+
+markdown: kramdown
+plugins:
+  - jekyll-feed

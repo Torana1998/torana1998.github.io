@@ -5,17 +5,14 @@ Welcome to my data science portfolio. I'm a Master's in Business Analytics stude
 
 📫 Contact: [torana1998@gmail.com](mailto:torana1998@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/torana) | [GitHub Pages Portfolio](https://torana1998.github.io)
-
 ---
 
 ## 🚀 Featured Projects
-
-### [🏘️ Airbnb Listing Analytics](https://torana1998.github.io/Airbnb-Listing-Analytics/)
 ### [📈 Sole Fitness Business Analytics](https://torana1998.github.io/Sole-Fintess-Business-Analytics/)
-
+### [🏘️ Airbnb Analytics](https://torana1998.github.io/Airbnb-Analytics/)
 ---
-## 🛠️ Tools & Skills
 
+## 🛠️ Tools & Skills
 - **Languages & Tools:** Python, PostgreSQL, Power BI, Tableau, R  
 - **ML Libraries:** Scikit-learn, TensorFlow, PyTorch  
 - **Techniques:** Predictive Modelling, NLP, EDA, Clustering, Dashboarding  

@@ -12,7 +12,7 @@ Welcome to my data science portfolio. I'm a Master's in Business Analytics stude
 
 ### [🏘️ Airbnb Listing Analytics](https://torana1998.github.io/Airbnb-Listing-Analytics/)
 - Used NLP techniques to identify language that drives high occupancy for Airbnb listings.
-- Built predictive models (Linear, Regression, Random Forest, Gradient Boosting) to predeict occupancy rate. 
+- Built predictive models (Linear, Regression, Random Forest, Gradient Boosting) to predeict occupancy rate.
 
 ### [📈 Sole Fitness Business Analytics](https://torana1998.github.io/Sole-Fintess-Business-Analytics/)
 - Developed a postgreSQL data base that integrates sales data sources from Sole Fitness Website, Lazada and Shopee pages.

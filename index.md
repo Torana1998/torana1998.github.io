@@ -25,7 +25,7 @@ Welcome to my data science portfolio. I'm a Master's in Business Analytics stude
 **Goal:** Help short-term rental operators improve occupancy using NLP and machine learning.  
 **Highlights:**  
 - Used NLP techniques to identify language that drives high occupancy for Airbnb listings.
-- Built predictive models (Linear, Regression, Random Forest, Gradient Boosting) to predeict occupancy rate. 
+- Built predictive models (Linear, Regression, Random Forest, Gradient Boosting) to predeict occupancy rate.
 ---
 
 ## 🛠️ Tech Stack

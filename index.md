@@ -1,29 +1,38 @@
 ---
 layout: default
-title: Torana's Business Analytics Portfolio
+title: Torana's Portfolio
 ---
 
-# 👋 Welcome to My Portfolio
+# 👋 Hello, I'm Torana
 
-This portfolio showcases business analytics projects built using NLP, machine learning, and dashboarding.
-
----
-
-## 📊 [Airbnb Listing Analytics](https://torana1998.github.io/Airbnb-Listing-Analytics/)
-
-Used NLP, LDA topic modelling, and predictive models to uncover key drivers of Airbnb occupancy.
-
-→ [View Project](https://torana1998.github.io/Airbnb-Listing-Analytics/)
+I'm a Business Analytics graduate student at NUS with a background in civil engineering and a passion for data-driven problem-solving. This site showcases projects that merge technical skills with business impact.
 
 ---
 
-## 💼 [Sole Fitness Business Analytics](https://torana1998.github.io/Sole-Fintess-Business-Analytics/)
+## 📂 My Projects
 
-Analysed ROAS across Google, Facebook, and Bing Ads. Recommended optimised ad spend strategies via data insights.
-
-→ [View Project](https://torana1998.github.io/Sole-Fintess-Business-Analytics/)
+### 🏘️ [Airbnb Listing Analytics](https://torana1998.github.io/Airbnb-Listing-Analytics/)
+**Goal:** Help short-term rental operators improve occupancy using NLP and machine learning.  
+**Highlights:**  
+- Topic modelling (LDA), TF-IDF, and sentiment analysis using BERT.  
+- Predictive modelling with R² up to 0.79 using Random Forest.  
 
 ---
+
+### 🏋️ [Sole Fitness Analytics](https://torana1998.github.io/Sole-Fintess-Business-Analytics/)
+**Goal:** Help e-commerce SME optimise ad spend and improve product performance.  
+**Highlights:**  
+- Built PostgreSQL data warehouse for Shopee/Lazada/web sales.  
+- Created Power BI dashboards and used clustering to inform strategy.
+
+---
+
+## 🛠️ Tech Stack
+
+- Python, PostgreSQL, Power BI, Tableau  
+- NLP: TF-IDF, n-grams, LDA  
+- ML: Random Forest, Gradient Boosting, GridSearchCV  
+
 
 ## 🧰 Tools & Tech
 - Python (pandas, scikit-learn, matplotlib)

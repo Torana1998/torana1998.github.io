@@ -5,7 +5,7 @@ title: Torana's Data Analytics Portfolio
 
 # 👋 Welcome
 
-I am **Torana**, a part-time Master's student in Enterprise Business Analytics at the **National University of Singapore**.  
+I am Torana, a part-time Master's student in Enterprise Business Analytics at the National University of Singapore.  
 I apply data science techniques to solve real-world business problems.  
 This page summarises the projects I have worked on. Please click on the project titles for more in-depth details.
 
@@ -14,8 +14,8 @@ This page summarises the projects I have worked on. Please click on the project 
 ## 📚 My Education
 
 **National University of Singapore**  
-🎓 **Master of Technology (Enterprise Business Analytics), NUS (2024–2026)**  
-🎓 **Bachelor of Engineering (Civil), NUS (2019–2023)**  
+🎓 Master of Technology (Enterprise Business Analytics), NUS (2024–2026) 
+🎓 Bachelor of Engineering (Civil), NUS (2019–2023) 
 
 ---
 
@@ -23,18 +23,18 @@ This page summarises the projects I have worked on. Please click on the project 
 
 ### 🏋️ [Sole Fitness Business Analytics](https://torana1998.github.io/Sole-Fintess-Business-Analytics/)
 Collaborated with an e-commerce company in Singapore to integrate analytics into daily operations.  
-**Highlights:**
+Highlights:
 - Designed a normalised **PostgreSQL** database integrating website, Shopee, and Lazada sales data.
 - Developed **Power BI dashboards** to visualise product performance and business KPIs.
 - Applied **clustering** to segment products and identify underperformers for revenue diversification.
-- Formulated a **ROAS (Return on Ad Spend)** metric and conducted correlation analysis to reduce advertising costs by **4%**.  
+- Formulated a **ROAS (Return on Ad Spend)** metric and conducted correlation analysis to reduce advertising costs by **4%** in senarios analysis.  
 *Note: As this project was conducted for an operational company, the datasets are confidential. However, the project report provides sufficient detail to understand the scope and outcomes.*
 
 ---
 
 ### 🏘️ [Airbnb Listing Analytics](https://torana1998.github.io/Airbnb-Analytics/)
 Utilised web-scraped Airbnb data to analyse listing features that drive high occupancy.  
-**Highlights:**
+Highlights:
 - Built a **star schema** for structured data modelling.
 - Applied **NLP** techniques (n-gram analysis, TF-IDF, LDA, sentiment analysis) on review and listing text data.
 - Developed **Linear Regression**, **Random Forest**, and **Gradient Boosting** models for occupancy prediction.

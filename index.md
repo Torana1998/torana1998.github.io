@@ -14,9 +14,9 @@ This page summarises the projects I have worked on. Please click on the project 
 ## 📚 My Education
 
 **National University of Singapore**  
-🎓 Master of Technology (Enterprise Business Analytics), NUS (2024–2026) 
-
-🎓 Bachelor of Engineering (Civil), NUS (2019–2023) 
+🎓 **Master of Technology (Enterprise Business Analytics)**, NUS (2024–2026) 
+  
+🎓 **Bachelor of Engineering (Civil)**, NUS (2019–2023) 
 
 ---
 
